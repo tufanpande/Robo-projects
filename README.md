@@ -1,4 +1,4 @@
-# 🔧 Electronics & Robotics Project List
+# Robotics Project List
 
 A structured collection of **electronics, Arduino, IoT, and robotics projects** arranged from beginner to advanced level.
 
