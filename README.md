@@ -131,7 +131,7 @@ This project roadmap helps learners develop skills in:
 
 ## 🚀 Learning Path
 
-```text
+
 Basic Electronics
        ↓
 Sensors & Components
